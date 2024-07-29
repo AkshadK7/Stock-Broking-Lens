@@ -1,0 +1,222 @@
+{
+    "car": [
+        "Electric Equipment",
+        "Logistics",
+        "Auto Ancillary",
+        "Automobiles-Trucks/Lcv",
+        "Petrochemicals",
+        "Shipping",
+        "Automotive- Passenger Cars",
+        "Automobiles-Dealers & Distributors",
+        "e-Commerce"
+    ],
+    "cell phone": [
+        "Telecommunication - Service Provider",
+        "e-Commerce"
+    ],
+    "laptop": [
+        "IT - Hardware",
+        "IT - Software",
+        "e-Commerce"
+    ],
+    "mouse": [
+        "IT - Hardware",
+        "IT - Software",
+        "e-Commerce"
+    ],
+    "keyboard": [
+        "IT - Hardware",
+        "IT - Software",
+        "e-Commerce"
+    ],
+    "tv": [
+        "TV Broadcasting & Software Production",
+        "e-Commerce"
+    ],
+    "microwave": [
+        "Consumer Durables - Domestic Appliances"
+    ],
+    "oven": [
+        "Consumer Durables - Domestic Appliances"
+    ],
+    "toaster": [
+        "Consumer Durables - Domestic Appliances"
+    ],
+    "refrigerator": [
+        "Consumer Durables - Domestic Appliances"
+    ],
+    "dining table": [
+        "Hotel, Resort & Restaurants"
+    ],
+    "couch": [
+        "Hotel, Resort & Restaurants"
+    ],
+    "chair": [
+        
+            "Laminates/Decoratives"
+        
+    ],
+    "bed": [
+        "Hotel, Resort & Restaurants"
+    ],
+    "bicycle": [
+        "Logistics",
+        "Cycles"
+    ],
+    "airplane": [
+        "Electric Equipment",
+        "Logistics",
+        "Engineering-Industrial Equipments",
+        "Airlines",
+        "e-Commerce"
+    ],
+    "truck": [
+        "Electric Equipment",
+        "Logistics",
+        "Auto Ancillary",
+        "Automobiles-Trucks/Lcv",
+        "Shipping"
+    ],
+    "motorcycle": [
+        "Electric Equipment",
+        "Logistics",
+        "Auto Ancillary",
+        "Automobiles-Trucks/Lcv",
+        "Petrochemicals",
+        "Shipping"
+    ],
+    "boat": [
+        "Logistics",
+        "Shipping",
+        "e-Commerce"
+    ],
+    "train": [
+        "Electric Equipment",
+        "Logistics",
+        "Railways Wagons"
+    ],
+    "suitcase": [
+        "Travel Services",
+        "e-Commerce"
+    ],
+    "backpack": [
+        "Travel Services",
+        "e-Commerce"
+    ],
+    "carrot": [
+        "Agriculture"
+    ],
+    "broccoli": [
+        "Agriculture"
+    ],
+    "sandwich": [
+        "Consumer Food",
+        "Hotel, Resort & Restaurants",
+        "e-Commerce"
+    ],
+    "potted plant": [
+        "Floriculture"
+    ],
+    "banana": [
+            "Consumer Food"
+    ],
+    "apple": [
+            "Consumer Food"
+    ],
+    "cake": [
+        "Consumer Food"
+    ],
+    "pizza": [
+        "Consumer Food"
+    ],
+    "donut": [
+        "Consumer Food"
+    ],
+    "hot dog": [
+        "Consumer Food"
+    ],
+    "orange": [
+        "Consumer Food"
+    ],
+
+    "cup": [
+        
+            "Household & Personal Products"
+        
+    ],
+    "bottle": [
+        
+            "Household & Personal Products",
+            "Plastic Products"
+        
+    ],
+    "fork": [
+        
+            "Household & Personal Products"
+        
+    ],
+    "knife": [
+        
+            "Household & Personal Products"
+        
+    ],
+    "spoon": [
+        
+            "Household & Personal Products"
+        
+    ],
+    "bowl": [
+        
+            "Household & Personal Products"
+        
+    ],
+    "table": [
+        
+            "Laminates/Decoratives",
+            "Wood & Wood Products"
+        
+    ],
+    "book": [
+        
+            "Paper & Paper Products",
+            "Educational Institutions",
+            "Printing & Stationery"
+        
+    ],
+    "clock": [
+        
+            "Watches & Accessories",
+            "Laminates/Decoratives"
+        
+    ],
+    "vase": [
+        
+            "Ceramics/Marble/Granite/Sanitaryware",
+            "Laminates/Decoratives"
+        
+    ],
+    "scissors": [
+        
+            "Printing & Stationery",
+            "Household & Personal Products",
+            "Medical Equipment/Supplies/Accessories"
+        
+    ],
+    "teddy bear": [
+    
+            "Rubber  Products",
+            "Diversified"
+    
+    ],
+    "hair drier": [
+    
+            "Consumer Durables - Domestic Appliances",
+            "Consumer Durables - Electronics"
+    
+    ],
+    "toothbrush": [
+    
+            "Household & Personal Products"
+    
+    ]
+}

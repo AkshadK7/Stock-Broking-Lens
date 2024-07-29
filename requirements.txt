@@ -1,0 +1,10 @@
+Pillow==9.2.0
+transformers
+numpy
+pandas
+fastapi
+pydantic
+uvicorn
+tensorflow
+torch==2.0.1
+torchvision==0.15.2
